@@ -596,5 +596,5 @@ end
 
 end
 return {
-Ninja9 = games
+Poyka = games
 }
