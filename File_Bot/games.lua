@@ -32,7 +32,7 @@ Text_Games = [[
 ء┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 الميزيد م̷ـــِْن المعلومات √
 راسل المطور البوت °
-📮| [Channel NINJA 🦅](t.me/ninjaIAQ)
+📮| [Channel NINJA 🦅](t.me/ChannelNinjaBOT)
 ]]
 send(msg.chat_id_, msg.id_,Text_Games) 
 end
