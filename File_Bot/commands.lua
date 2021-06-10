@@ -487,5 +487,5 @@ end
 
 end
 return {
-NINJA = Reply
+ = Reply
 }
